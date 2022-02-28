@@ -7,3 +7,6 @@ like Lane Line Detection were being developed and used. A person driving a vehic
 own but systems like autonomous vehicles or self-driving vehicles need assistance to drive accordingly. With the
 advancement of technology, availability of vast datasets and computational power, models can be build that creates
 a pipeline for the vehicle to steer without any manual assistance.
+
+This project was developed using Image Processing techniques.
+
